@@ -3,3 +3,4 @@ lalitha is learning python
 params
 numpy
 functions
+tq&regards
