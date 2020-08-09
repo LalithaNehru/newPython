@@ -4,3 +4,4 @@ params
 numpy
 functions
 tq&regards
+do u need any platform to run the code????
