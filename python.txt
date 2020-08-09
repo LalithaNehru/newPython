@@ -1,0 +1,5 @@
+lalitha is learning python
+
+
+numpy
+functions
